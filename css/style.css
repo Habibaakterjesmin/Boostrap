@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h5, h6, p, ul{
+    margin: 0;
+    padding: 0;
+}
+header{
+  background-color: #F0FFF0;
+  min-height: 100vh; 
+}
+header h4{
+color: red;
+font-size: 16px;
+line-height: 24px;
+font-weight: 400;
+}
+
+header h1{
+color: #000000;
+font-size: 48px;
+line-height: 70px;
+font-weight: 700;
+}
+
+header h1 span{
+color: #21B573;
+}
+
+header p{
+color: #000000;
+font-size: 16px;
+line-height: 36px;
+font-weight: 400;
+}
+.btn-started{
+background-color: #21B573;
+border-radius: 30px;
+color: #F0FFF0;
+padding: 5px 20px;
+border: 1px solid #000000;
+text-transform: capitalize;
+
+
+
+}
+
+.btn-started:hover{
+    background: #003a20;
+    color: #F0FFF0;
+
+}
+
+.feature_section{
+padding: 100px 0;
+
+}
+.feature_item{
+text-align: center;
+background-color: #F0FFF0;
+padding: 40px 0;
+border-radius: 10px;
+
+}
+.feature_item img{
+width: 60px;
+
+
+
+
+}
+.feature_item h3{
+color: #413960;
+font-size: 24px;
+line-break: 36px;
+font-weight: 500px;
+margin-top: 15px;
+}
+.feature_item p{
+color: #585859;
+font-size: 16px;
+line-height: 24px;
+font-weight: 400px;
+}
+.feature_item:hover{
+box-shadow: 0px 20px 40px 0px #0000001A;
+background-color: #fff;
+
+}
+.course_section{
+padding: 50px 0;
+}
+.course_section h1{
+text-align: center;
+}
+.course{
+box-shadow: 0px 10px 40px 0px #0000001A;
+border-radius: 15px;
+padding: 20px;
+}
+.course h2{
+font-size: 20px;
+margin: 10px 0;
+
+}
+.course img{
+
+}
+.course p{
+
+}
+.course ul{
+list-style:none;
+display: flex;
+justify-content: space-between;
+}
+.course ul li{
+font-size: 14px;
+}
+.course ul li i {
+margin-right: 5px;
+}
+.btn-buy{
+background: #21B573;
+padding:2px 20px;
+border-radius: 30px;
+font-size: 14px;
+color: #fff;
+margin: 15px 0;
+}
+.testimonial{
+padding: 100px;
+}
+.testimonial h1{
+text-align: center;
+margin-bottom: 50px;
+}
+.testimonial img{
+
+}
+.testimonial p{
+
+}
+footer{
+ background: #282531;
+ padding: 30px;
+
+}
+footer p{
+color: #ffff;
+
+}
+
+footer h4{
+color: #fff;
+margin-bottom: 18px;
+font-size: 20px;
+
+}
+
+footer ul{
+list-style: none;
+}
+footer ul li{
+margin-bottom: 3px;
+}
+footer ul li a {
+text-decoration: none;
+color: #fff;
+font-size: 14px;
+}
